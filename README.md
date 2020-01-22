@@ -1,6 +1,8 @@
 ## GIT BRANCHING
 
+
 Cheat sheet for git and git branching.
+
 
 ### Basic Git Commands
 * 'git init' - Create local repo
